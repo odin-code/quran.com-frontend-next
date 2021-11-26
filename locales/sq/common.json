@@ -79,10 +79,11 @@
         "code_v2": "Kompleksi King Fahad V2",
         "font-size": "Përmasa e germave",
         "lines": "Linjat",
-        "qcf-desc": "Fontet KPFG ofrojnë cilësi më të lartë, por kërkojnë më shumë kohë për t'u ngarkuar dhe nuk mund të kopjohen përmes shfletuesit.",
+        "qcf-desc": "Fontet KPFG ofrojnë cilësi më të lartë, por kërkojnë më shumë kohë për t'u ngarkuar.",
         "qpc_uthmani_hafs": "QPC Uthmani Hafs",
         "quran-font": "Fonti i Kuranit",
         "tajweed": "Texhvidi",
+        "tajweed-desc": "Fonti Tajweed tregon një Mushaf me ngjyrë Tajweed. Mund të lexoni më shumë rreth rregullave të ngjyrave të Tajweed <0> këtu <\/0>",
         "text_indopak": "IndoPak",
         "text_uthmani": "Osmani"
     },
@@ -164,13 +165,19 @@
         "change-reciter": "Ndrysho recituesin",
         "change-tafsirs": "Ndrysho Tefsire",
         "change-translations": "Ndrysho përkthimet",
+        "no-tafsir-selected": "Nuk është zgjedhur asnjë tefsir",
+        "no-translation-selected": "Nuk u zgjodh asnjë përkthim",
         "reading-experience": "Përvoja e të lexuarit",
         "reset-cta": "Rivendos cilësimet",
         "reset-notif": "Cilësimet tuaja janë rivendosur në ato të paracaktuara",
         "search-reciter": "Kërko Recitues",
         "search-tafsirs": "Kërkoni tefsirë",
         "search-translations": "Kërko Përkthime",
-        "title": "Cilësimet"
+        "title": "Cilësimet",
+        "tooltip-desc": "Klikoni në çdo fjalë të Kuranit për të parë këshillën e veglave",
+        "value-and-others": "{{value}} , dhe {{othersCount}} tjerë",
+        "wbw-helper": "Shfaq përkthimin ose transliterimin direkt nën fjalë",
+        "word-tooltip-helper": "Shfaq përkthimin ose transliterimin kur rri pezull ose klikon fjalën"
     },
     "share": "Shpërndaje",
     "shared": "Lidhja është kopjuar në kujtesën e fragmenteve!",
@@ -195,6 +202,7 @@
     },
     "theme": "Tema",
     "themes": {
+        "auto": "Auto",
         "dark": "E errët",
         "light": "Drita",
         "sepia": "Sepia",
@@ -224,5 +232,6 @@
         "play-audio": "Luaj Audio",
         "title": "Klikoni në fjalë"
     },
+    "word-tooltip": "Këshillë për veglat e fjalës",
     "yes": "po"
 }

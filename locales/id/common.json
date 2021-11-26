@@ -79,10 +79,11 @@
         "code_v2": "Kompleks Raja Fahad V2",
         "font-size": "Ukuran huruf",
         "lines": "Garis",
-        "qcf-desc": "Font KPFG memberikan kualitas yang lebih tinggi tetapi membutuhkan waktu lebih lama untuk memuat dan tidak dapat disalin melalui browser.",
+        "qcf-desc": "Font KPFG memberikan kualitas yang lebih tinggi tetapi membutuhkan waktu lebih lama untuk dimuat.",
         "qpc_uthmani_hafs": "QPC Utsmani Hafs",
         "quran-font": "Huruf Quran",
         "tajweed": "Tajwid",
+        "tajweed-desc": "Font Tajwid menunjukkan Mushaf berwarna Tajwid. Anda dapat membaca lebih lanjut tentang aturan warna Tajwid <0> sini <\/0>",
         "text_indopak": "IndoPak",
         "text_uthmani": "Usmani"
     },
@@ -164,13 +165,19 @@
         "change-reciter": "Ganti Qari",
         "change-tafsirs": "Ubah Tafsir",
         "change-translations": "Ubah Terjemahan",
+        "no-tafsir-selected": "Tidak ada tafsir yang dipilih",
+        "no-translation-selected": "Tidak ada terjemahan yang dipilih",
         "reading-experience": "Pengalaman Membaca",
         "reset-cta": "Atur Semula Pengaturan",
         "reset-notif": "Pengaturan Anda telah diatur semula ke default",
         "search-reciter": "Cari Pembaca",
         "search-tafsirs": "Cari Tafsir",
         "search-translations": "Cari Terjemahan",
-        "title": "Pengaturan"
+        "title": "Pengaturan",
+        "tooltip-desc": "Klik pada setiap Kata Quran untuk melihat tooltip",
+        "value-and-others": "{{value}} , dan {{othersCount}} lainnya",
+        "wbw-helper": "Tampilkan terjemahan atau transliterasi langsung di bawah kata",
+        "word-tooltip-helper": "Tampilkan terjemahan atau transliterasi saat mengarahkan atau mengklik kata"
     },
     "share": "Membagikan",
     "shared": "Tautan telah disalin ke papan klip!",
@@ -195,6 +202,7 @@
     },
     "theme": "Tema",
     "themes": {
+        "auto": "Mobil",
         "dark": "Gelap",
         "light": "Terang",
         "sepia": "sepia",
@@ -224,5 +232,6 @@
         "play-audio": "Putar Audio",
         "title": "Klik Kata"
     },
+    "word-tooltip": "Keterangan Alat Kata",
     "yes": "Ya"
 }

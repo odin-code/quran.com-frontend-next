@@ -79,10 +79,11 @@
         "code_v2": "Complexo King Fahad V2",
         "font-size": "Tamanho da fonte",
         "lines": "Linhas",
-        "qcf-desc": "As fontes KPFG fornecem qualidade superior, mas demoram mais para carregar e não podem ser copiadas pelo navegador.",
+        "qcf-desc": "As fontes KPFG fornecem qualidade superior, mas demoram mais para carregar.",
         "qpc_uthmani_hafs": "QPC Uthmani Hafs",
         "quran-font": "Fonte do Alcorão",
         "tajweed": "Tajweed",
+        "tajweed-desc": "A fonte Tajweed mostra um Mushaf colorido Tajweed. Você pode ler mais sobre as regras de cores do Tajweed <0> aqui <\/0>",
         "text_indopak": "IndoPak",
         "text_uthmani": "Uthmani"
     },
@@ -164,13 +165,19 @@
         "change-reciter": "Mudar recitador",
         "change-tafsirs": "Mudar Tafsirs",
         "change-translations": "Mudar as traduções",
+        "no-tafsir-selected": "Nenhum tafsir selecionado",
+        "no-translation-selected": "Nenhuma tradução selecionada",
         "reading-experience": "Experiência de Leitura",
         "reset-cta": "Redefinir as configurações",
         "reset-notif": "Suas configurações foram redefinidas para os padrões",
         "search-reciter": "Recitador de pesquisa",
         "search-tafsirs": "Pesquisar Tafsirs",
         "search-translations": "Pesquisar traduções",
-        "title": "Definições"
+        "title": "Definições",
+        "tooltip-desc": "Clique em qualquer palavra do Alcorão para ver a dica de ferramenta",
+        "value-and-others": "{{value}} e {{othersCount}} outros",
+        "wbw-helper": "Exibir a tradução ou transliteração diretamente abaixo da palavra",
+        "word-tooltip-helper": "Exibir a tradução ou transliteração ao passar o mouse ou clicar na palavra"
     },
     "share": "Compartilhado",
     "shared": "O link foi copiado para a área de transferência!",
@@ -195,6 +202,7 @@
     },
     "theme": "Tema",
     "themes": {
+        "auto": "Auto",
         "dark": "Escuro",
         "light": "Luz",
         "sepia": "Sépia",
@@ -224,5 +232,6 @@
         "play-audio": "Tocar áudio",
         "title": "Clique da palavra"
     },
+    "word-tooltip": "Dica de ferramenta do Word",
     "yes": "sim"
 }

@@ -79,10 +79,11 @@
         "code_v2": "法赫德国王复合体 V2",
         "font-size": "字体大小",
         "lines": "线",
-        "qcf-desc": "KPFG 字体提供更高的质量，但加载时间更长，并且无法通过浏览器复制。",
+        "qcf-desc": "KPFG 字体提供更高的质量，但加载时间更长。",
         "qpc_uthmani_hafs": "QPC Uthmani Hafs",
         "quran-font": "古兰经字体",
         "tajweed": "泰姬草",
+        "tajweed-desc": "Tajweed 字体显示 Tajweed 色的 Mushaf。 <0>此处阅读有关 Tajweed 颜色规则的更多信息<\/0>",
         "text_indopak": "印巴",
         "text_uthmani": "奥斯曼尼"
     },
@@ -164,13 +165,19 @@
         "change-reciter": "更改朗诵者",
         "change-tafsirs": "更改 Tafsir",
         "change-translations": "更改翻译",
+        "no-tafsir-selected": "未选择 tafsir",
+        "no-translation-selected": "未选择翻译",
         "reading-experience": "阅读体验",
         "reset-cta": "重新设置",
         "reset-notif": "您的设置已重置为默认设置",
         "search-reciter": "搜索朗诵者",
         "search-tafsirs": "搜索 Tafsirs",
         "search-translations": "搜索翻译",
-        "title": "设置"
+        "title": "设置",
+        "tooltip-desc": "单击任何古兰经单词以查看工具提示",
+        "value-and-others": "{{value}}和{{othersCount}}其他",
+        "wbw-helper": "直接在单词下方显示翻译或音译",
+        "word-tooltip-helper": "悬停或单击单词时显示翻译或音译"
     },
     "share": "分享",
     "shared": "链接已复制到剪贴板！",
@@ -195,6 +202,7 @@
     },
     "theme": "主题",
     "themes": {
+        "auto": "汽车",
         "dark": "黑暗的",
         "light": "光",
         "sepia": "棕褐色",
@@ -224,5 +232,6 @@
         "play-audio": "播放音频",
         "title": "字点击"
     },
+    "word-tooltip": "文字工具提示",
     "yes": "是的"
 }
